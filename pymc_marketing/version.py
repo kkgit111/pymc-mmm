@@ -9,4 +9,4 @@ def read_version():
         return buff.read().splitlines()[0]
 
 
-__version__ = read_version()
+__version__ = "0.3.0"
